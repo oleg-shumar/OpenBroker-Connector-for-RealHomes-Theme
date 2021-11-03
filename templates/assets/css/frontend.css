@@ -1,0 +1,51 @@
+.advance-search .more-options-wrapper label small {
+    display: none;
+}
+
+.rh_classic_keyword_field {
+    display: none;
+}
+
+.advance-search .advance-search-form .more-options-wrapper.clearfix > .option-bar input,
+.advance-search .advance-search-form .more-options-wrapper.clearfix > .option-bar label {
+    display: block !important;
+    margin: 0 10px 0 0;
+}
+
+.advance-search .advance-search-form .more-options-wrapper.clearfix .option-bar {
+    display: flex;
+    align-items: flex-end;
+}
+
+.advance-search .more-options-wrapper {
+    flex-flow: wrap;
+}
+
+.advance-search .more-options-wrapper.active {
+    display: flex !important;
+}
+
+.sidebar .advance-search .search-heading {
+    display: none;
+}
+
+.widget.advance-search .wrapper-search-form-grid > div {
+    width: 100% !important;
+}
+
+.widget.advance-search .option-bar.small {
+    width: 100% !important;
+    max-width: 100% !important;
+}
+
+.sort-controls .inspiry_select_picker_trigger.bootstrap-select ul.dropdown-menu li {
+    display: block !important;
+}
+
+.sort-controls .dropdown-menu.open, .sort-controls .inner.open {
+    max-height: 400px !important;
+}
+
+.inspiry_select_picker_trigger.bootstrap-select ul.dropdown-menu li {
+    display: block !important;
+}
